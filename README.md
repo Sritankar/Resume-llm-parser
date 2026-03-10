@@ -77,6 +77,22 @@ The app supports:
 - uploading one resume file and multiple JD files
 - JSON download of the final matching result
 
+## Stable deployment
+
+Recommended target: Streamlit Community Cloud
+
+- Repository: `Sritankar/Resume-llm-parser`
+- Branch: `main`
+- Main file path: `streamlit_app.py`
+
+Deployment steps:
+
+1. Sign in at `https://share.streamlit.io/`
+2. Click `Create app`
+3. Select the repository above
+4. Set the main file path to `streamlit_app.py`
+5. Click `Deploy`
+
 ## Output shape
 
 ```json
