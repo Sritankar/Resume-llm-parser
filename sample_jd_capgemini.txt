@@ -1,0 +1,17 @@
+Capgemini
+Backend Developer
+
+Job Description
+Should have 7 years of strong hands-on experience with Core Java and Spring Boot.
+Should have 4 years of strong hands-on experience with Angular or React.
+Hands-on experience with relational databases, Microsoft SQL Server or NoSQL is required.
+Should have strong hands-on experience working on Microservices, Kafka, and REST API development.
+Hands-on experience working with containerization technologies Docker and Kubernetes.
+
+Good to have
+Python experience
+AI/ML exposure is valuable
+Experience in Cloud platforms Azure etc
+Experience in DevOps pipeline CI/CD practice using Jenkins
+
+The base compensation range for this role in the posted location is: 61087 - 104364

@@ -1,0 +1,227 @@
+{
+  "name": "John Doe",
+  "salary": "18 LPA",
+  "yearOfExperience": 7.8,
+  "resumeSkills": [
+    "Spring Boot",
+    "React",
+    "Java",
+    "Python",
+    "SQL",
+    "REST API",
+    "Microservices",
+    "Kafka",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "AWS",
+    "Linux",
+    "Git",
+    "CI/CD",
+    "Cloud Native",
+    "Cloud",
+    "Telemetry",
+    "Bash"
+  ],
+  "matchingJobs": [
+    {
+      "jobId": "JD002",
+      "role": "Backend Developer",
+      "aboutRole": "Should have 7 years of strong hands-on experience with Core Java and Spring Boot. Should have 4 years of strong hands-on experience with Angular or React.",
+      "requiredSkills": [
+        "Spring Boot",
+        "React",
+        "Angular",
+        "Java",
+        "Python",
+        "Microsoft SQL Server",
+        "NoSQL",
+        "SQL",
+        "REST API",
+        "Microservices",
+        "Kafka",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Azure",
+        "CI/CD",
+        "Cloud",
+        "AI/ML"
+      ],
+      "optionalSkills": [
+        "Python",
+        "Jenkins",
+        "Azure",
+        "CI/CD",
+        "Cloud",
+        "AI/ML"
+      ],
+      "skillsAnalysis": [
+        {
+          "skill": "Spring Boot",
+          "presentInResume": true
+        },
+        {
+          "skill": "React",
+          "presentInResume": true
+        },
+        {
+          "skill": "Angular",
+          "presentInResume": false
+        },
+        {
+          "skill": "Java",
+          "presentInResume": true
+        },
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "Microsoft SQL Server",
+          "presentInResume": false
+        },
+        {
+          "skill": "NoSQL",
+          "presentInResume": false
+        },
+        {
+          "skill": "SQL",
+          "presentInResume": true
+        },
+        {
+          "skill": "REST API",
+          "presentInResume": true
+        },
+        {
+          "skill": "Microservices",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kafka",
+          "presentInResume": true
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "Jenkins",
+          "presentInResume": true
+        },
+        {
+          "skill": "Azure",
+          "presentInResume": false
+        },
+        {
+          "skill": "CI/CD",
+          "presentInResume": true
+        },
+        {
+          "skill": "Cloud",
+          "presentInResume": true
+        },
+        {
+          "skill": "AI/ML",
+          "presentInResume": false
+        }
+      ],
+      "matchingScore": 72.2,
+      "salary": "61087 - 104364",
+      "yearOfExperience": 7
+    },
+    {
+      "jobId": "JD001",
+      "role": "Software Engineer",
+      "aboutRole": "As a Software Engineer at Astra, you'll build systems that support rocket testing, manufacturing, and launch operations. You'll work closely with hardware and operations teams to develop tools for automation, data collection, and real-time analysis.",
+      "requiredSkills": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Cloud Native",
+        "Cloud",
+        "Data Pipelines",
+        "Telemetry",
+        "Time Series",
+        "JSON",
+        "YAML",
+        "Protobuf"
+      ],
+      "optionalSkills": [
+        "Go",
+        "C",
+        "Robotics"
+      ],
+      "skillsAnalysis": [
+        {
+          "skill": "Python",
+          "presentInResume": true
+        },
+        {
+          "skill": "Docker",
+          "presentInResume": true
+        },
+        {
+          "skill": "Kubernetes",
+          "presentInResume": true
+        },
+        {
+          "skill": "AWS",
+          "presentInResume": true
+        },
+        {
+          "skill": "Cloud Native",
+          "presentInResume": true
+        },
+        {
+          "skill": "Cloud",
+          "presentInResume": true
+        },
+        {
+          "skill": "Data Pipelines",
+          "presentInResume": false
+        },
+        {
+          "skill": "Telemetry",
+          "presentInResume": true
+        },
+        {
+          "skill": "Time Series",
+          "presentInResume": false
+        },
+        {
+          "skill": "JSON",
+          "presentInResume": false
+        },
+        {
+          "skill": "YAML",
+          "presentInResume": false
+        },
+        {
+          "skill": "Protobuf",
+          "presentInResume": false
+        },
+        {
+          "skill": "Go",
+          "presentInResume": false
+        },
+        {
+          "skill": "C",
+          "presentInResume": false
+        },
+        {
+          "skill": "Robotics",
+          "presentInResume": false
+        }
+      ],
+      "matchingScore": 46.7,
+      "salary": "$130,000 - $160,000 per year",
+      "yearOfExperience": 3
+    }
+  ]
+}

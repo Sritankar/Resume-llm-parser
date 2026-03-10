@@ -1,0 +1,21 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1 555 010 2026
+LinkedIn: linkedin.com/in/johndoe
+
+Professional Summary
+Backend and platform engineer with production experience building cloud-native services, telemetry pipelines, and internal tools for distributed systems.
+
+Experience
+Senior Software Engineer | Orion Systems | Jan 2022 - Present
+- Built Python microservices and REST APIs for manufacturing telemetry.
+- Used Docker, Kubernetes, AWS, PostgreSQL, Jenkins, and Git in CI/CD workflows.
+
+Software Engineer | Nova Labs | Jul 2018 - Dec 2021
+- Developed Java and Spring Boot services with Kafka integration.
+- Worked on React dashboards, Linux automation, and Bash scripting.
+
+Technical Skills
+Python, Java, Spring Boot, React, Docker, Kubernetes, AWS, PostgreSQL, Kafka, REST API, CI/CD, Jenkins, Git, Linux, Bash, Microservices
+
+Expected CTC: 18 LPA

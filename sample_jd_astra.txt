@@ -1,0 +1,18 @@
+Astra
+Software Engineer
+
+The Opportunity
+As a Software Engineer at Astra, you'll build systems that support rocket testing, manufacturing, and launch operations. You'll work closely with hardware and operations teams to develop tools for automation, data collection, and real-time analysis.
+
+Why We Value You
+- 3+ years of experience in software engineering, including production-level Python development
+- Solid understanding of system design, data pipelines, and APIs
+- Experience with cloud-native services (e.g., AWS, Kubernetes, Docker) and telemetry or time-series systems
+- Familiarity with REST/gRPC APIs and common data serialization formats (e.g., JSON, YAML, Protobuf)
+- Proven ability to deliver software in high-stakes or cross-functional environments
+
+Desired Multipliers
+- Experience in aerospace, robotics, or hardware-software systems
+- Exposure to TypeScript, Go, or C/C++
+
+The pay range for this role is: $130,000 - $160,000 per year
